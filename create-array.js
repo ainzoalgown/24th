@@ -1,0 +1,8 @@
+let a = []
+let b = [3, 4, 5]
+let c = ["deada", "efief", "fesfwf"]
+let d = ["efefs", "fsfsfs", "efseffs", 3, 2, 1]
+let names = ['Rakhim','Abdulla', 'Arsamak', 'Sally', 'Mansur']
+let ar = [3, 'faaefa', null, undefined, true, false]
+let empty = [[], [], []]
+let arr = [[1, 2, 3], [4, 5, 6]]
